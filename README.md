@@ -1,0 +1,1 @@
+It's a simple Calculator made through HTMML, CSS and JS
